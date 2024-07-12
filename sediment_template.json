@@ -1,0 +1,4474 @@
+[
+  {
+    "COLKEY": 29266,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 1,
+    "HEADER": "Exp",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Exp"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29267,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 2,
+    "HEADER": "Site",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Site"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 50,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29268,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 3,
+    "HEADER": "Hole",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Hole"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 25,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29269,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 4,
+    "HEADER": "Core",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Core"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 25,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": {
+        "decimals": 0,
+        "maximum": 9999,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29270,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 5,
+    "HEADER": "Type",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Type"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 25,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29271,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 6,
+    "HEADER": "Section",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Section"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 25,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29272,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 7,
+    "HEADER": "A/W",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "A/W"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 25,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29273,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 8,
+    "HEADER": "Sample ID",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Sample ID"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": 260,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29274,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 9,
+    "HEADER": "Offset top (cm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Offset top (cm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 50,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "offset",
+      "locked": "S",
+      "validation": {
+        "decimals": 1,
+        "maximum": 170,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29275,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 10,
+    "HEADER": "Offset bottom (cm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Offset bottom (cm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 50,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "offset",
+      "locked": "S",
+      "validation": {
+        "decimals": 1,
+        "maximum": 170,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29276,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 11,
+    "HEADER": "Top depth CSF-A (m)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Top depth CSF-A (m)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 65,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": {
+        "decimals": 3,
+        "maximum": 99999.999,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29277,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 12,
+    "HEADER": "Middle depth CSF-A (m)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizonal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Middle depth CSF-A (m)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 65,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": {
+        "decimals": 3,
+        "maximum": 99999.999,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29278,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 13,
+    "HEADER": "Bottom depth CSF-A (m)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Bottom depth CSF-A (m)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 65,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": {
+        "decimals": 3,
+        "maximum": 99999.999,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29279,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 14,
+    "HEADER": "Top depth CSF-B (m)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Top depth CSF-B (m)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "F",
+      "columnWidth": 65,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": {
+        "decimals": 3,
+        "maximum": 99999.999,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29280,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 15,
+    "HEADER": "Middle depth CSF-B (m)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Middle depth CSF-B (m)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "F",
+      "columnWidth": 65,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": {
+        "decimals": 3,
+        "maximum": 99999.999,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29281,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 16,
+    "HEADER": "Bottom depth CSF-B (m)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Bottom depth CSF-B (m)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "F",
+      "columnWidth": 65,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": {
+        "decimals": 3,
+        "maximum": 99999.999,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29282,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 17,
+    "HEADER": "Domain no.",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Domain no."
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 25,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": {
+        "decimals": 0,
+        "maximum": 9999,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29283,
+    "TPKEY": 2111,
+    "TYPE": "scope",
+    "SORTORDER": 18,
+    "HEADER": "Piece no.",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Piece no."
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "F",
+      "columnWidth": 50,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": {
+        "decimals": 0,
+        "maximum": 9999,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29284,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 19,
+    "HEADER": "Observer",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Observer"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Description",
+      "joinFocus": "of",
+      "focus": "observer"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29285,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 20,
+    "HEADER": "No material present",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "No material present"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "no material present"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "WRND",
+        "void",
+        "gas expansion",
+        "other gap in material"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29286,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 21,
+    "HEADER": "Drilling disturbance type",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Drilling disturbance type"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Type",
+      "joinFocus": "of",
+      "focus": "drilling disturbance"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "brecciated",
+        "crack",
+        "horizontal cracks",
+        "pulverized",
+        "along-core gravel/sand contamination",
+        "basal flow-in",
+        "flow-in",
+        "mixed sediment",
+        "mousselike",
+        "sediment flowage",
+        "slurry",
+        "soupy",
+        "core extension",
+        "up-arching",
+        "fall-in",
+        "punctured",
+        "gas expansion",
+        "void",
+        "biscuiting"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29287,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 22,
+    "HEADER": "Drilling disturbance intensity",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Drilling disturbance intensity"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "quantification": "intensity",
+      "joinFocus": "of",
+      "focus": "drilling disturbance",
+      "joinQuantification": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "slightly disturbed",
+        "moderately disturbed",
+        "strongly disturbed",
+        "severely disturbed"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29288,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 23,
+    "HEADER": "Drilling disturbance intensity rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Drilling disturbance intensity rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": "IF(NOT(ISERROR(MATCH({{Drilling disturbance intensity}}, {\"slightly disturbed\",\"moderately disturbed\",\"strongly disturbed\",\"severely disturbed\"}, 0))), LOOKUP({{Drilling disturbance intensity}}, {\"slightly disturbed\",\"moderately disturbed\",\"strongly disturbed\",\"severely disturbed\"}, {\"1\",\"2\",\"3\",\"4\"}), \"\")",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29289,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 24,
+    "HEADER": "Drilling disturbance comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Drilling disturbance comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "joinFocus": "on",
+      "focus": "drilling disturbance"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29290,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 25,
+    "HEADER": "Interval comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Interval comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "joinFocus": "on",
+      "focus": "description intervals"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29291,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 26,
+    "HEADER": "Domain description",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Domain description"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Description",
+      "joinFocus": "of",
+      "focus": "domain"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29292,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 27,
+    "HEADER": "Domain rel. vol. (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Domain rel. vol. (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "joinFocus": "of",
+      "focus": "domain"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": {
+        "decimals": 0,
+        "maximum": 100,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29293,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 28,
+    "HEADER": "Lithology prefix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithology prefix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "lithology prefix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "clayey",
+        "silty",
+        "muddy",
+        "sandy muddy",
+        "sandy",
+        "gravel",
+        "gravelly",
+        "nannofossil",
+        "nannofossil-foraminifer",
+        "foraminifer-nannofossil",
+        "diatom-radiolarian",
+        "radiolarian-diatom"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29294,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 29,
+    "HEADER": "Lithology principal name",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithology principal name"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#fbecea",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "lithology principal name"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "clay",
+        "claystone",
+        "silty clay",
+        "silty claystone",
+        "sandy clay",
+        "sandy claystone",
+        "clayey silt",
+        "clayey siltstone",
+        "silt",
+        "siltstone",
+        "sandy silt",
+        "sandy siltstone",
+        "mud",
+        "mudstone",
+        "sandy mud",
+        "sandy mudstone",
+        "clayey sand",
+        "clayey sandstone",
+        "silty sand",
+        "silty sandstone",
+        "muddy sand",
+        "muddy sandstone",
+        "sand",
+        "sandstone",
+        "very fine sand",
+        "very fine fine sandstone",
+        "fine sand",
+        "fine sandstone",
+        "medium sand",
+        "medium sandstone",
+        "coarse sand",
+        "coarse sandstone",
+        "very coarse sand",
+        "very coarse sandstone",
+        "calcareous ooze",
+        "chalk",
+        "siliceous chalk",
+        "nannofossil ooze",
+        "nannofossil chalk",
+        "foraminifer ooze",
+        "foraminifer chalk",
+        "pteropod ooze",
+        "pteropod chalk",
+        "siliceous sediment",
+        "siliceous ooze",
+        "diatom ooze",
+        "diatomite",
+        "diatomaceous chert",
+        "radiolarian ooze",
+        "radiolarite",
+        "radiolarian chert",
+        "siliceous sponge spicule ooze",
+        "spicularite",
+        "sponge-spicule rock",
+        "porcellanite",
+        "opaline porcellanite",
+        "chert",
+        "opaline chert",
+        "calcareous chert"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29295,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 30,
+    "HEADER": "Lithology suffix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithology suffix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "lithology suffix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "foraminifer",
+        "calcareous nannofossils",
+        "sand",
+        "shell fragments"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29296,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 31,
+    "HEADER": "Lithology full name",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithology full name"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Concatenated",
+      "focus": "lithology prefix+name+suffix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "TEXTJOIN(\" \", TRUE, {{Lithology prefix}},{{Lithology principal name}},\"with\",{{Lithology suffix}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29297,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 32,
+    "HEADER": "Lithology prefix+principal",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithology prefix+principal"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "F",
+      "columnWidth": "100",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Concatenated",
+      "focus": "lithology prefix+principal"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "TEXTJOIN(\" \", TRUE, {{Lithology prefix}},{{Lithology principal name}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29298,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 33,
+    "HEADER": "Lithology principal+suffix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithology principal+suffix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "F",
+      "columnWidth": "100",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Concatenated",
+      "focus": "lithology principal+suffix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "TEXTJOIN(\" \", TRUE, {{Lithology principal name}},\"with\",{{Lithology suffix}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29299,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 34,
+    "HEADER": "Facies description",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Facies description"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Description",
+      "joinFocus": "of",
+      "focus": "facies"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29300,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 35,
+    "HEADER": "Facies interpretation",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Facies interpretation"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Interpretation",
+      "joinFocus": "of",
+      "focus": "facies"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29301,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 36,
+    "HEADER": "Lower contact type",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lower contact type"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Type",
+      "joinFocus": "of",
+      "focus": "lower boundary or contact"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "boundary or contact not recovered",
+        "color boundary or contact",
+        "grain size contact",
+        "bioturbated boundary or contact",
+        "sharp erosive boundary or contact",
+        "cut-and-fill boundary or contact",
+        "reactivation surface",
+        "firmground",
+        "hardground"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29302,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 37,
+    "HEADER": "Lower contact shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lower contact shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "joinFocus": "of",
+      "joinTextureDisplay": "of",
+      "focus": "lower boundary or contact"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29303,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 38,
+    "HEADER": "Lower contact definition",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lower contact definition"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "definition",
+      "joinFocus": "of",
+      "joinTextureDisplay": "of",
+      "focus": "lower boundary or contact"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29304,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 39,
+    "HEADER": "Lower contact attitude",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lower contact attitude"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "quantification": "attitude",
+      "joinFocus": "of",
+      "focus": "lower boundary or contact",
+      "joinQuantification": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "horizontal",
+        "sub-horizontal",
+        "inclined",
+        "steeply dipping",
+        "sub-vertical",
+        "vertical"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29305,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 40,
+    "HEADER": "Lower contact attitude rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Lower contact attitude rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": "IF(NOT(ISERROR(MATCH({{Lower contact attitude}}, {\"horizontal\",\"sub-horizontal\",\"inclined\",\"steeply dipping\",\"sub-vertical\",\"vertical\"}, 0))), LOOKUP({{Lower contact attitude}}, {\"horizontal\",\"sub-horizontal\",\"inclined\",\"steeply dipping\",\"sub-vertical\",\"vertical\"}, {\"1\",\"2\",\"3\",\"4\",\"5\",\"6\"}), \"\")",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29306,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 41,
+    "HEADER": "Lower contact interpretation",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lower contact interpretation"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Interpretation",
+      "joinFocus": "of",
+      "focus": "lower boundary or contact"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29307,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 42,
+    "HEADER": "Strata thickness",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Strata thickness"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "quantification": "thickness",
+      "joinFocus": "of",
+      "focus": "stratification",
+      "joinQuantification": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "thinly laminated <0.3 cm",
+        "thickly laminated 0.3-1 cm",
+        "very thinly bedded 1-3 cm",
+        "thinly bedded 3-10 cm",
+        "mediumly bedded 10-30 cm",
+        "thickly bedded 30-100 cm",
+        "very thickly bedded >100 cm"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29308,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 43,
+    "HEADER": "Sedimentary structure",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Sedimentary structure"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "sedimentary structure"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "lamination",
+        "lamina ",
+        "convolute lamination",
+        "graded bedding",
+        "graded bed",
+        "lens",
+        "geopetal"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29309,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 44,
+    "HEADER": "Sedimentary structure comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Sedimentary structure comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "joinFocus": "on",
+      "focus": "sedimentary structure"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29310,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 45,
+    "HEADER": "Diagenetic features",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Diagenetic features"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "diagenetic features"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "concretion",
+        "nodule",
+        "cement",
+        "anhydrite nodule",
+        "carbonate nodule",
+        "celestine nodule",
+        "chert nodule",
+        "glauconite nodules",
+        "gypsum nodule",
+        "sulfide nodule",
+        "manganese nodule",
+        "phosphatic nodule",
+        "pyrite nodule"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29311,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 46,
+    "HEADER": "Description of diagenetic features",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Description of diagenetic features"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Description",
+      "joinFocus": "of",
+      "focus": "diagenetic features"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29312,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 47,
+    "HEADER": "Deformational structures",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Deformational structures"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "deformational structures"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "churned or chaotic strata",
+        "contorted bedding",
+        "convolution",
+        "flame structure",
+        "flow structure",
+        "fluid escape structure",
+        "intraformational contortion",
+        "intraformational fold",
+        "slump bedding",
+        "slump breccia",
+        "slump fold"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29313,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 48,
+    "HEADER": "Description of deformational structures",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Description of deformational structures"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Description",
+      "joinFocus": "of",
+      "focus": "deformational structures"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29314,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 49,
+    "HEADER": "Munsell HVC manual",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Munsell HVC manual"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Description",
+      "textureDisplay": "Munsell color HVC",
+      "joinTextureDisplay": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29315,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 50,
+    "HEADER": "Munsell color name",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Munsell color name"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "100",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Description",
+      "textureDisplay": "Munsell color names",
+      "joinTextureDisplay": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29316,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 51,
+    "HEADER": "Ave. grain size class",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ave. grain size class"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "grain size class",
+      "quantification": "average",
+      "joinQuantification": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "clay",
+        "silt",
+        "very fine sand",
+        "fine sand",
+        "medium sand",
+        "coarse sand",
+        "very coarse sand",
+        "sand",
+        "granule",
+        "pebble",
+        "cobble",
+        "boulder",
+        "gravel"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29317,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 52,
+    "HEADER": "Ave. grain size class rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Ave. grain size class rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": "IF(NOT(ISERROR(MATCH({{Ave. grain size class}}, {\"clay\",\"silt\",\"very fine sand\",\"fine sand\",\"medium sand\",\"coarse sand\",\"very coarse sand\",\"sand\",\"granule\",\"pebble\",\"cobble\",\"boulder\",\"gravel\"}, 0))), LOOKUP({{Ave. grain size class}}, {\"clay\",\"silt\",\"very fine sand\",\"fine sand\",\"medium sand\",\"coarse sand\",\"very coarse sand\",\"sand\",\"granule\",\"pebble\",\"cobble\",\"boulder\",\"gravel\"}, {\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\",\"13\"}), \"\")",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29318,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 53,
+    "HEADER": "Max. grain size class",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Max. grain size class"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "grain size class",
+      "quantification": "maximum",
+      "joinQuantification": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29319,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 54,
+    "HEADER": "Max. grain size (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Max. grain size (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "textureDisplay": "grain size",
+      "quantification": "maximum",
+      "joinQuantification": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": {
+        "decimals": 0,
+        "maximum": 100,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29320,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 55,
+    "HEADER": "Bioturbation intensity",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Bioturbation intensity"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "quantification": "intensity",
+      "joinFocus": "of",
+      "focus": "bioturbation",
+      "joinQuantification": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "absent bioturbation",
+        "sparse bioturbation",
+        "uncommon bioturbation",
+        "moderate bioturbation",
+        "common bioturbation",
+        "abundant bioturbation",
+        "complete bioturbation"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29321,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 56,
+    "HEADER": "Bioturbation intensity rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Bioturbation intensity rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": "IF(NOT(ISERROR(MATCH({{Bioturbation intensity}}, {\"absent bioturbation\",\"sparse bioturbation\",\"uncommon bioturbation\",\"moderate bioturbation\",\"common bioturbation\",\"abundant bioturbation\",\"complete bioturbation\"}, 0))), LOOKUP({{Bioturbation intensity}}, {\"absent bioturbation\",\"sparse bioturbation\",\"uncommon bioturbation\",\"moderate bioturbation\",\"common bioturbation\",\"abundant bioturbation\",\"complete bioturbation\"}, {\"0\",\"1\",\"2\",\"3\",\"4\",\"5\",\"6\"}), \"\")",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29322,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 57,
+    "HEADER": "Trace fossils",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Trace fossils"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "trace fossil"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "Asterosoma von Otto, 1854",
+        "Chondrites",
+        "Cylindrichnus concentricus",
+        "Diplocraterion",
+        "nereite",
+        "Ophiomorpha",
+        "Palaeophycus",
+        "Phycosiphon",
+        "Planolites",
+        "Rhizocoralium",
+        "Roselia",
+        "Scolicia",
+        "Teichichnus",
+        "Zoophycos"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29323,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 58,
+    "HEADER": "Macrofossil abundance",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Macrofossil abundance"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "quantification": "abundance range",
+      "joinFocus": "of",
+      "focus": "macrofossils",
+      "joinQuantification": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "no macrofossils",
+        "rare macrofossils",
+        "few macrofossils",
+        "common macrofossils",
+        "abundant macrofossils"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29324,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 59,
+    "HEADER": "Macrofossils",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Macrofossils"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "macrofossils"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "phytolith",
+        "bioclast",
+        "shell",
+        "shell fragments",
+        "skeletal debris",
+        "green algae",
+        "Halimeda",
+        "red algae",
+        "rhodolith",
+        "coralline algae",
+        "blue-green algae",
+        "cyanolith",
+        "microbial mat",
+        "annelid",
+        "scolecodont",
+        "serpulid",
+        "arthropod",
+        "trilobite",
+        "barnacle",
+        "brachiopod",
+        "bryozoan",
+        "tunicate spicule",
+        "Acropora",
+        "Agaricid",
+        "Pavona",
+        "coral",
+        "Montastrea",
+        "Pocillopora",
+        "Porites",
+        "echinoderm",
+        "echinoderm spine",
+        "crinoid",
+        "echinoid",
+        "graptolite",
+        "mollusc",
+        "bivalve",
+        "Inoceramus prism",
+        "rudist",
+        "pectinid (scallop)",
+        "pelecypod",
+        "cephalopod",
+        "ammonite",
+        "belemnite",
+        "gastropod",
+        "pteropod",
+        "scaphopod",
+        "tentaculitid",
+        "sponge",
+        "amphipora",
+        "stromatoporoid"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29325,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 60,
+    "HEADER": "Macrofossil texture",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Macrofossil texture"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "texture",
+      "joinFocus": "of",
+      "joinTextureDisplay": "of",
+      "focus": "macrofossils"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "encrusting colonies",
+        "solitary",
+        "tabular colonies",
+        "branching colonies",
+        "massive colonies",
+        "encrusting",
+        "laminated",
+        "hemispherical",
+        "lamellar",
+        "spherical",
+        "massive",
+        "tabular",
+        "crust",
+        "fragment(s)",
+        "skeletal"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29326,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 61,
+    "HEADER": "Grading type",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Grading type"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Type",
+      "textureDisplay": "grading",
+      "joinTextureDisplay": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "no grading",
+        "normal grading",
+        "multiple normal grading",
+        "normal coarse-tail grading",
+        "inverse/reverse grading",
+        "multiple inverse/reverse grading",
+        "inverse/reverse coarse-tail grading",
+        "inverse/reverse to normal grading",
+        "normal to inverse/reverse grading"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29327,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 62,
+    "HEADER": "Porosity",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Porosity"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "porosity",
+      "joinTextureDisplay": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "no porosity",
+        "low porosity",
+        "moderate porosity",
+        "high porosity"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29328,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 63,
+    "HEADER": "Porosity rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Porosity rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": "IF(NOT(ISERROR(MATCH({{Porosity}}, {\"no porosity\",\"low porosity\",\"moderate porosity\",\"high porosity\"}, 0))), LOOKUP({{Porosity}}, {\"no porosity\",\"low porosity\",\"moderate porosity\",\"high porosity\"}, {\"1\",\"2\",\"3\",\"4\"}), \"\")",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29329,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 64,
+    "HEADER": "Sorting",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Sorting"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "sorting",
+      "joinTextureDisplay": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "extremely poorly sorted",
+        "very poorly sorted",
+        "poorly sorted",
+        "moderately sorted",
+        "well sorted",
+        "very well sorted"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29330,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 65,
+    "HEADER": "Sorting rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Sorting rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": "IF(NOT(ISERROR(MATCH({{Sorting}}, {\"extremely poorly sorted\",\"very poorly sorted\",\"poorly sorted\",\"moderately sorted\",\"well sorted\",\"very well sorted\"}, 0))), LOOKUP({{Sorting}}, {\"extremely poorly sorted\",\"very poorly sorted\",\"poorly sorted\",\"moderately sorted\",\"well sorted\",\"very well sorted\"}, {\"1\",\"2\",\"3\",\"4\",\"5\",\"6\"}), \"\")",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29331,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 66,
+    "HEADER": "Clast abundance range",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Clast abundance range"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "quantification": "abundance range",
+      "joinFocus": "of",
+      "focus": "clasts (>2 mm)",
+      "joinQuantification": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "dominant",
+        "abundant",
+        "common",
+        "rare",
+        "trace"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29332,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 67,
+    "HEADER": "Clast abundance range rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Clast abundance range rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": "IF(NOT(ISERROR(MATCH({{Clast abundance range}}, {\"dominant\",\"abundant\",\"common\",\"rare\",\"trace\"}, 0))), LOOKUP({{Clast abundance range}}, {\"dominant\",\"abundant\",\"common\",\"rare\",\"trace\"}, {\"1\",\"2\",\"3\",\"4\",\"5\"}), \"\")",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29333,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 68,
+    "HEADER": "Clast abundance (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Clast abundance (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "abundance",
+      "joinFocus": "of",
+      "focus": "clasts (>2 mm)"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": {
+        "decimals": 0,
+        "maximum": 100,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29334,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 69,
+    "HEADER": "Clast count",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Clast count"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Count",
+      "joinFocus": "of",
+      "focus": "clasts (>2 mm)"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": {
+        "decimals": 0,
+        "maximum": 100,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29335,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 70,
+    "HEADER": "Clast comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Clast comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "joinFocus": "on",
+      "focus": "clasts (>2 mm)"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29336,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 71,
+    "HEADER": "Clast lithology prefix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Clast lithology prefix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "clast lithology prefix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "muddy",
+        "sandy",
+        "gravelly",
+        "matrix supported, monomict",
+        "matrix supported, monomict, evolved",
+        "matrix supported, monomict, mafic",
+        "matrix supported, polymict",
+        "matrix supported, polymict, evolved",
+        "matrix supported, polymict, mafic",
+        "clast supported, monomict",
+        "clast supported, monomict, evolved",
+        "clast supported, monomict, mafic",
+        "clast supported, polymict",
+        "clast supported, polymict, evolved",
+        "clast supported, polymict, mafic",
+        "tuffaceous",
+        "tuffaceous, clast supported",
+        "tuffaceous, matrix supported"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29337,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 72,
+    "HEADER": "Clast lithology principal name",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Clast lithology principal name"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "clast lithology principal name"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "claystone",
+        "mudstone",
+        "sandstone",
+        "tephra",
+        "tuff",
+        "lapillistone",
+        "limestone",
+        "igneous",
+        "basalt",
+        "gabbro"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29338,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 73,
+    "HEADER": "Clast lithology suffix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Clast lithology suffix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Description",
+      "joinFocus": "of",
+      "focus": "clast lithology suffix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29339,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 74,
+    "HEADER": "Clast lithology prefix+principal",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Clast lithology prefix+principal"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "100",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Concatenated",
+      "focus": "clast lithology prefix+principal"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "TEXTJOIN(\" \", TRUE, {{Clast lithology prefix}},{{Clast lithology principal name}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29340,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 75,
+    "HEADER": "Clast lithology prefix+name+suffix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Clast lithology prefix+name+suffix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "100",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Concatenated",
+      "focus": "clast lithology prefix+name+suffix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "TEXTJOIN(\" \", TRUE, {{Clast lithology prefix}},{{Clast lithology principal name}},\"with\",{{Clast lithology suffix}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29341,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 76,
+    "HEADER": "Clast lithology principal+suffix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Clast lithology principal+suffix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "100",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Concatenated",
+      "focus": "clast lithology principal+suffix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "TEXTJOIN(\" \", TRUE, {{Clast lithology principal name}},\"with\",{{Clast lithology suffix}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29342,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 77,
+    "HEADER": "Lithoclast abundance range",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithoclast abundance range"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#eeffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "quantification": "abundance range",
+      "composition": "lithic",
+      "focus": "clasts (>2 mm)",
+      "joinQuantification": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "D (>50%)",
+        "C (5-50%)",
+        "R (<5%)"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29343,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 78,
+    "HEADER": "Lithoclast abundance (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithoclast abundance (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#eeffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "abundance",
+      "composition": "lithic",
+      "focus": "clasts (>2 mm)",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": {
+        "decimals": 0,
+        "maximum": 100,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29344,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 79,
+    "HEADER": "Lithoclast sorting",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithoclast sorting"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#eeffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "sorting",
+      "composition": "lithic",
+      "joinTextureDisplay": "of",
+      "focus": "clasts (>2 mm)",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "extremely poorly sorted",
+        "very poorly sorted",
+        "poorly sorted",
+        "moderately sorted",
+        "well sorted",
+        "very well sorted"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29345,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 80,
+    "HEADER": "Lithoclast sorting rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Lithoclast sorting rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": "IF(NOT(ISERROR(MATCH({{Lithoclast sorting}}, {\"extremely poorly sorted\",\"very poorly sorted\",\"poorly sorted\",\"moderately sorted\",\"well sorted\",\"very well sorted\"}, 0))), LOOKUP({{Lithoclast sorting}}, {\"extremely poorly sorted\",\"very poorly sorted\",\"poorly sorted\",\"moderately sorted\",\"well sorted\",\"very well sorted\"}, {\"1\",\"2\",\"3\",\"4\",\"5\",\"6\"}), \"\")",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29346,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 81,
+    "HEADER": "Lithoclast roundness",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithoclast roundness"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#eeffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "roundness",
+      "composition": "lithic",
+      "joinTextureDisplay": "of",
+      "focus": "clasts (>2 mm)",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "very angular",
+        "angular",
+        "subangular",
+        "subrounded",
+        "rounded",
+        "well-rounded"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29347,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 82,
+    "HEADER": "Lithoclast roundness rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Lithoclast roundness rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": "IF(NOT(ISERROR(MATCH({{Lithoclast roundness}}, {\"very angular\",\"angular\",\"subangular\",\"subrounded\",\"rounded\",\"well-rounded\"}, 0))), LOOKUP({{Lithoclast roundness}}, {\"very angular\",\"angular\",\"subangular\",\"subrounded\",\"rounded\",\"well-rounded\"}, {\"1\",\"2\",\"3\",\"4\",\"5\",\"6\"}), \"\")",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29348,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 83,
+    "HEADER": "Lithoclast grading",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithoclast grading"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#eeffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "grading",
+      "composition": "lithic",
+      "joinTextureDisplay": "of",
+      "focus": "clasts (>2 mm)",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "no grading",
+        "normal grading",
+        "multiple normal grading",
+        "normal coarse-tail grading",
+        "inverse/reverse grading",
+        "multiple inverse/reverse grading",
+        "inverse/reverse coarse-tail grading",
+        "inverse/reverse to normal grading",
+        "normal to inverse/reverse grading"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29349,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 84,
+    "HEADER": "Lithoclast comments",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithoclast comments"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#eeffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "composition": "lithic",
+      "focus": "clasts (>2 mm)",
+      "joinComposition": "on"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29350,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 85,
+    "HEADER": "Bioclasts abundance range",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Bioclasts abundance range"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffde",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "quantification": "abundance range",
+      "composition": "bioclasts",
+      "joinQuantification": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "D (>50%)",
+        "C (5-50%)",
+        "R (<5%)"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29351,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 86,
+    "HEADER": "Bioclasts abundance range rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Bioclasts abundance range rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": "IF(NOT(ISERROR(MATCH({{Bioclasts abundance range}}, {\"D (>50%)\",\"C (5-50%)\",\"R (<5%)\"}, 0))), LOOKUP({{Bioclasts abundance range}}, {\"D (>50%)\",\"C (5-50%)\",\"R (<5%)\"}, {\"1\",\"2\",\"3\"}), \"\")",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29352,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 87,
+    "HEADER": "Bioclasts abundance (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Bioclasts abundance (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffde",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "abundance",
+      "composition": "bioclasts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": {
+        "decimals": 0,
+        "maximum": 100,
+        "minimum": 0
+      },
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29353,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 88,
+    "HEADER": "Bioclasts sorting",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Bioclasts sorting"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffde",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "sorting",
+      "composition": "bioclasts",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "extremely poorly sorted",
+        "very poorly sorted",
+        "poorly sorted",
+        "moderately sorted",
+        "well sorted",
+        "very well sorted"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29354,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 89,
+    "HEADER": "Bioclasts sorting rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Bioclasts sorting rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": "IF(NOT(ISERROR(MATCH({{Bioclasts sorting}}, {\"extremely poorly sorted\",\"very poorly sorted\",\"poorly sorted\",\"moderately sorted\",\"well sorted\",\"very well sorted\"}, 0))), LOOKUP({{Bioclasts sorting}}, {\"extremely poorly sorted\",\"very poorly sorted\",\"poorly sorted\",\"moderately sorted\",\"well sorted\",\"very well sorted\"}, {\"1\",\"2\",\"3\",\"4\",\"5\",\"6\"}), \"\")",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29355,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 90,
+    "HEADER": "Bioclasts roundness",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Bioclasts roundness"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffde",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "roundness",
+      "composition": "bioclasts",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "very angular",
+        "angular",
+        "well-rounded",
+        "subrounded",
+        "rounded",
+        "subangular"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29356,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 91,
+    "HEADER": "Bioclasts roundness rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Bioclasts roundness rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": "IF(NOT(ISERROR(MATCH({{Bioclasts roundness}}, {\"very angular\",\"angular\",\"well-rounded\",\"subrounded\",\"rounded\",\"subangular\"}, 0))), LOOKUP({{Bioclasts roundness}}, {\"very angular\",\"angular\",\"well-rounded\",\"subrounded\",\"rounded\",\"subangular\"}, {\"1\",\"2\",\"6\",\"4\",\"5\",\"3\"}), \"\")",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29357,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 92,
+    "HEADER": "Bioclasts grading",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Bioclasts grading"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffde",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "grading",
+      "composition": "bioclasts",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "no grading",
+        "normal grading",
+        "multiple normal grading",
+        "normal coarse-tail grading",
+        "inverse/reverse grading",
+        "multiple inverse/reverse grading",
+        "inverse/reverse coarse-tail grading",
+        "inverse/reverse to normal grading",
+        "normal to inverse/reverse grading"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29358,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 93,
+    "HEADER": "Matrix lithology prefix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Matrix lithology prefix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "matrix lithology prefix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "muddy",
+        "sandy",
+        "gravelly",
+        "tuffaceous"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29359,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 94,
+    "HEADER": "Matrix lithology principal name",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Matrix lithology principal name"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "matrix lithology principal name"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "claystone",
+        "mudstone",
+        "sandstone",
+        "tephra",
+        "tuff",
+        "lapillistone",
+        "carbonate mudstone",
+        "wackestone",
+        "packstone",
+        "grainstone",
+        "floatstone",
+        "rudstone"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29360,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 95,
+    "HEADER": "Matrix lithology suffix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Matrix lithology suffix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Description",
+      "joinFocus": "of",
+      "focus": "matrix lithology suffix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29361,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 96,
+    "HEADER": "Matrix lithology prefix+principal",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Matrix lithology prefix+principal"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "100",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Concatenated",
+      "focus": "matrix lithology prefix+principal"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "TEXTJOIN(\" \", TRUE, {{Matrix lithology prefix}},{{Matrix lithology principal name}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29362,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 97,
+    "HEADER": "Matrix lithology prefix+name+suffix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Matrix lithology prefix+name+suffix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "100",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Concatenated",
+      "focus": "matrix lithology prefix+name+suffix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "TEXTJOIN(\" \", TRUE, {{Matrix lithology prefix}},{{Matrix lithology principal name}},\"with\",{{Matrix lithology suffix}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29363,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 98,
+    "HEADER": "Matrix lithology principal+suffix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Matrix lithology principal+suffix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "100",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Concatenated",
+      "focus": "matrix lithology principal+suffix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "TEXTJOIN(\" \", TRUE, {{Matrix lithology principal name}},\"with\",{{Matrix lithology suffix}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29364,
+    "TPKEY": 2111,
+    "TYPE": "general",
+    "SORTORDER": 99,
+    "HEADER": "Matrix comments",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Matrix comments"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JSONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALID_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "joinFocus": "on",
+      "focus": "matrix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": "",
+      "contiguity": "F"
+    }
+  }
+]
