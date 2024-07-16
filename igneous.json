@@ -4968,7 +4968,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "formula",
-      "validation": "SUM({{Fresh glass (%)}}, {{Altered glass (%)}})",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -5146,7 +5146,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "formula",
-      "validation": "SUM({{Ol phenocryst (%)}}, {{Pl phenocryst (%)}}, {{Cpx phenocryst (%)}}, {{Opx phenocryst (%)}}, {{Amp phenocryst (%)}}, {{Spl phenocryst (%)}}, {{Ox phenocryst (%)}})",
+      "validation": [],
       "contiguity": "F"
     }
   },
