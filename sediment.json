@@ -33,7 +33,7 @@
       "exclusivity": "F",
       "validationType": "text",
       "locked": "T",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -71,7 +71,7 @@
       "exclusivity": "F",
       "validationType": "text",
       "locked": "T",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -109,7 +109,7 @@
       "exclusivity": "F",
       "validationType": "text",
       "locked": "T",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -147,11 +147,11 @@
       "exclusivity": "F",
       "validationType": "numeric",
       "locked": "T",
-      "validation": {
-        "decimals": 0,
-        "maximum": 9999,
-        "minimum": 0
-      },
+      "validation": [
+          0,
+         9999,
+        0
+      ],
       "contiguity": "F"
     }
   },
@@ -189,7 +189,7 @@
       "exclusivity": "F",
       "validationType": "text",
       "locked": "T",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -227,7 +227,7 @@
       "exclusivity": "F",
       "validationType": "text",
       "locked": "T",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -265,7 +265,7 @@
       "exclusivity": "F",
       "validationType": "text",
       "locked": "T",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -303,7 +303,7 @@
       "exclusivity": "F",
       "validationType": "text",
       "locked": "T",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -383,11 +383,11 @@
       "exclusivity": "F",
       "validationType": "offset",
       "locked": "S",
-      "validation": {
-        "decimals": 1,
-        "maximum": 170,
-        "minimum": 0
-      },
+      "validation": [
+         1,
+         170,
+          0
+     ],
       "contiguity": "F"
     }
   },
@@ -425,11 +425,11 @@
       "exclusivity": "F",
       "validationType": "numeric",
       "locked": "T",
-      "validation": {
-        "decimals": 3,
-        "maximum": 99999.999,
-        "minimum": 0
-      },
+      "validation": [
+         1,
+         170,
+          0
+     ],
       "contiguity": "F"
     }
   },
@@ -467,11 +467,11 @@
       "exclusivity": "F",
       "validationType": "numeric",
       "locked": "T",
-      "validation": {
-        "decimals": 3,
-        "maximum": 99999.999,
-        "minimum": 0
-      },
+      "validation": [
+         1,
+         170,
+          0
+     ],
       "contiguity": "F"
     }
   },
@@ -509,11 +509,11 @@
       "exclusivity": "F",
       "validationType": "numeric",
       "locked": "T",
-      "validation": {
-        "decimals": 3,
-        "maximum": 99999.999,
-        "minimum": 0
-      },
+      "validation": [
+         1,
+         170,
+          0
+     ],
       "contiguity": "F"
     }
   },
@@ -551,11 +551,11 @@
       "exclusivity": "F",
       "validationType": "numeric",
       "locked": "T",
-      "validation": {
-        "decimals": 3,
-        "maximum": 99999.999,
-        "minimum": 0
-      },
+      "validation": [
+         1,
+         170,
+          0
+     ],
       "contiguity": "F"
     }
   },
@@ -593,11 +593,11 @@
       "exclusivity": "F",
       "validationType": "numeric",
       "locked": "T",
-      "validation": {
-        "decimals": 3,
-        "maximum": 99999.999,
-        "minimum": 0
-      },
+      "validation": [
+         1,
+         170,
+          0
+     ],
       "contiguity": "F"
     }
   },
@@ -635,11 +635,11 @@
       "exclusivity": "F",
       "validationType": "numeric",
       "locked": "T",
-      "validation": {
-        "decimals": 3,
-        "maximum": 99999.999,
-        "minimum": 0
-      },
+      "validation": [
+         1,
+         170,
+          0
+     ],
       "contiguity": "F"
     }
   },
@@ -677,11 +677,11 @@
       "exclusivity": "F",
       "validationType": "numeric",
       "locked": "T",
-      "validation": {
-        "decimals": 0,
-        "maximum": 9999,
-        "minimum": 0
-      },
+      "validation": [
+          0,
+         9999,
+        0
+      ],
       "contiguity": "F"
     }
   },
@@ -719,11 +719,11 @@
       "exclusivity": "F",
       "validationType": "numeric",
       "locked": "T",
-      "validation": {
-        "decimals": 0,
-        "maximum": 9999,
-        "minimum": 0
-      },
+      "validation": [
+          0,
+         9999,
+        0
+      ],
       "contiguity": "F"
     }
   },
@@ -764,7 +764,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -997,7 +997,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -1038,7 +1038,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -1079,7 +1079,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -1487,7 +1487,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -1528,7 +1528,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -1793,7 +1793,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -1934,7 +1934,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -2030,7 +2030,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -2124,7 +2124,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -2165,7 +2165,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -2206,7 +2206,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -3168,7 +3168,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -3321,7 +3321,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -3808,7 +3808,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -4306,7 +4306,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -4467,7 +4467,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "text",
-      "validation": "",
+      "validation": [],
       "contiguity": "F"
     }
   }
