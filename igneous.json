@@ -1350,7 +1350,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "formula",
-      "validation": "TEXTJOIN(\" \", TRUE, {{Lithology prefix}},{{Lithology principal name}},\"with\",{{Lithology suffix}})",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -1390,7 +1390,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "formula",
-      "validation": "TEXTJOIN(\" \", TRUE, {{Lithology prefix}},{{Lithology principal name}})",
+      "validation": [],
       "contiguity": "F"
     }
   },
@@ -1430,7 +1430,7 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "formula",
-      "validation": "TEXTJOIN(\" \", TRUE, {{Lithology principal name}},\"with\",{{Lithology suffix}})",
+      "validation": [],
       "contiguity": "F"
     }
   },
