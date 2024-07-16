@@ -1,0 +1,7209 @@
+[
+  {
+    "COLKEY": 29389,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 1,
+    "HEADER": "Exp",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Exp"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29390,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 2,
+    "HEADER": "Site",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Site"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 50,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29391,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 3,
+    "HEADER": "Hole",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Hole"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 25,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29392,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 4,
+    "HEADER": "Core",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Core"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 25,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29393,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 5,
+    "HEADER": "Type",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Type"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 25,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29394,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 6,
+    "HEADER": "Section",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Section"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 25,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29395,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 7,
+    "HEADER": "A/W",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "A/W"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 25,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29396,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 8,
+    "HEADER": "Sample ID",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "F",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Sample ID"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": 260,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "text",
+      "locked": "T",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29397,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 9,
+    "HEADER": "Offset top (cm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Offset top (cm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 50,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "offset",
+      "locked": "S",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29398,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 10,
+    "HEADER": "Offset bottom (cm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Offset bottom (cm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 50,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "offset",
+      "locked": "S",
+      "validation": [
+        1,
+        170,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29399,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 11,
+    "HEADER": "Top depth CSF-A (m)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Top depth CSF-A (m)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 65,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29400,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 12,
+    "HEADER": "Middle depth CSF-A (m)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizonal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Middle depth CSF-A (m)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 65,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": [
+        1,
+        170,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29401,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 13,
+    "HEADER": "Bottom depth CSF-A (m)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Bottom depth CSF-A (m)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 65,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": [
+        1,
+        170,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29402,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 14,
+    "HEADER": "Top depth CSF-B (m)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Top depth CSF-B (m)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "F",
+      "columnWidth": 65,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": [
+        1,
+        170,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29403,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 15,
+    "HEADER": "Middle depth CSF-B (m)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Middle depth CSF-B (m)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "F",
+      "columnWidth": 65,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": [
+        1,
+        170,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29404,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 16,
+    "HEADER": "Bottom depth CSF-B (m)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Bottom depth CSF-B (m)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "F",
+      "columnWidth": 65,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "T",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": [
+        1,
+        170,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29405,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 17,
+    "HEADER": "Domain no.",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Domain no."
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 25,
+      "horizontalJustification": "right",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": [
+        1,
+        170,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29406,
+    "TPKEY": 2113,
+    "TYPE": "scope",
+    "SORTORDER": 18,
+    "HEADER": "Piece no.",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Piece no."
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 50,
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "T"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "locked": "T",
+      "validation": [
+        1,
+        170,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29407,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 19,
+    "HEADER": "Observer",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Observer"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Description",
+      "joinFocus": "of",
+      "focus": "observer"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29408,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 20,
+    "HEADER": "Interval no.",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Interval no."
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Count",
+      "joinFocus": "of",
+      "focus": "description intervals"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        1,
+        170,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29409,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 21,
+    "HEADER": "Domain description",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Domain description"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Description",
+      "joinFocus": "of",
+      "focus": "domain"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29410,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 22,
+    "HEADER": "Domain rel. vol. (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Domain rel. vol. (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "joinFocus": "of",
+      "focus": "domain"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        1,
+        170,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29411,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 23,
+    "HEADER": "Lithologic unit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithologic unit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Count",
+      "joinFocus": "of",
+      "focus": "lithologic unit"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29412,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 24,
+    "HEADER": "Texture",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Texture"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "texture",
+      "joinTextureDisplay": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "aphanitic",
+        "brecciated",
+        "glassy",
+        "phaneritic",
+        "glomeroporphyritic",
+        "lamprophyric",
+        "microphyric",
+        "porphyritic",
+        "vitrophyric"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29413,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 25,
+    "HEADER": "Ave. grain size class",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ave. grain size class"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "grain size class",
+      "quantification": "average",
+      "joinQuantification": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "cryptocrystalline",
+        "cryptocrystalline to microcrystalline",
+        "microcrystalline",
+        "fine-grained",
+        "medium grained",
+        "coarse grained",
+        "pegmatitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29414,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 26,
+    "HEADER": "Ave. grain size class rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Ave. grain size class rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29415,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 27,
+    "HEADER": "Grading type",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Grading type"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Type",
+      "textureDisplay": "grading",
+      "joinTextureDisplay": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "no grading",
+        "normal grading",
+        "multiple normal grading",
+        "normal coarse-tail grading",
+        "inverse/reverse grading",
+        "multiple inverse/reverse grading",
+        "inverse/reverse coarse-tail grading",
+        "inverse/reverse to normal grading",
+        "normal to inverse/reverse grading"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29416,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 28,
+    "HEADER": "Lithology prefix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithology prefix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "lithology prefix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "glassy",
+        "glassy to aphyric",
+        "aphyric",
+        "sparsely olivine phyric",
+        "sparsely pyroxene phyric",
+        "sparsely plagioclase phyric",
+        "sparsely olivine pyroxene phyric",
+        "sparsely olivine plagioclase phyric",
+        "sparsely pyroxene plagioclase phyric",
+        "sparsely olivine pyroxene plagioclase phyric",
+        "sparsely to moderately olivine phyric",
+        "sparsely to moderately pyroxene phyric",
+        "sparsely to moderately plagioclase phyric",
+        "sparsely to moderately olivine pyroxene phyric",
+        "sparsely to moderately olivine plagioclase phyric",
+        "sparsely to moderately pyroxene plagioclase phyric",
+        "sparsely to moderately olivine pyroxene plagioclase phyric",
+        "sparsely to highly olivine phyric",
+        "sparsely to highly pyroxene phyric",
+        "sparsely to highly plagioclase phyric",
+        "sparsely to highly olivine pyroxene phyric",
+        "sparsely to highly olivine plagioclase phyric",
+        "sparsely to highly pyroxene plagioclase phyric",
+        "sparsely to highly olivine pyroxene plagioclase phyric",
+        "moderately olivine phyric",
+        "moderately pyroxene phyric",
+        "moderately plagioclase phyric",
+        "moderately olivine pyroxene phyric",
+        "moderately olivine plagioclase phyric",
+        "moderately pyroxene plagioclase phyric",
+        "moderately olivine pyroxene plagioclase phyric",
+        "moderately to highly olivine phyric",
+        "moderately to highly pyroxene phyric",
+        "moderately to highly plagioclase phyric",
+        "moderately to highly olivine pyroxene phyric",
+        "moderately to highly olivine plagioclase phyric",
+        "moderately to highly pyroxene plagioclase phyric",
+        "moderately to highly olivine pyroxene plagioclase phyric",
+        "highly olivine phyric",
+        "highly pyroxene phyric",
+        "highly plagioclase phyric",
+        "highly olivine pyroxene phyric",
+        "highly olivine plagioclase phyric",
+        "highly pyroxene plagioclase phyric",
+        "highly olivine pyroxene plagioclase phyric"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29417,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 29,
+    "HEADER": "Lithology principal name",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithology principal name"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#fbecea",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "lithology principal name"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "basalt",
+        "andesite",
+        "rhyolite",
+        "dacite",
+        "obsidian"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29418,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 30,
+    "HEADER": "Lithology suffix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithology suffix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "joinFocus": "of",
+      "focus": "lithology suffix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "placeholder 1",
+        "placeholder 2",
+        "placeholder 3",
+        "placeholder 4"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29419,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 31,
+    "HEADER": "Lithology full name",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithology full name"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Concatenated",
+      "focus": "lithology prefix+name+suffix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "TEXTJOIN(\" \", TRUE, {{Lithology prefix}},{{Lithology principal name}},\"with\",{{Lithology suffix}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29420,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 32,
+    "HEADER": "Lithology prefix+principal",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithology prefix+principal"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "F",
+      "columnWidth": "100",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Concatenated",
+      "focus": "lithology prefix+principal"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "TEXTJOIN(\" \", TRUE, {{Lithology prefix}},{{Lithology principal name}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29421,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 33,
+    "HEADER": "Lithology principal+suffix",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lithology principal+suffix"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "F",
+      "columnWidth": "100",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Concatenated",
+      "focus": "lithology principal+suffix"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "TEXTJOIN(\" \", TRUE, {{Lithology principal name}},\"with\",{{Lithology suffix}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29422,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 34,
+    "HEADER": "Body of rock interpretation",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Body of rock interpretation"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Interpretation",
+      "joinFocus": "of",
+      "focus": "body of rock"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29423,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 35,
+    "HEADER": "Upper contact type",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Upper contact type"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Type",
+      "joinFocus": "of",
+      "focus": "upper boundary or contact"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "boundary or contact not recovered",
+        "color boundary or contact",
+        "grain size and modal contact",
+        "grain size contact",
+        "modal contact",
+        "faulted contact",
+        "foliated contact",
+        "sheared contact",
+        "sutured contact",
+        "chilled contact",
+        "chilled margin",
+        "dike contact",
+        "magmatic boundary or contact",
+        "magmatic vein contact",
+        "vein contact",
+        "bioturbated boundary or contact",
+        "sharp erosive boundary or contact",
+        "cut-and-fill boundary or contact",
+        "reactivation surface",
+        "firmground",
+        "hardground"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29424,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 36,
+    "HEADER": "Upper contact shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Upper contact shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "joinFocus": "of",
+      "joinTextureDisplay": "of",
+      "focus": "upper boundary or contact"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "curved",
+        "irregular",
+        "crescumulate texture",
+        "straight",
+        "straight-irregular",
+        "wavy"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29425,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 37,
+    "HEADER": "Upper boundary definition",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Upper boundary definition"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "definition",
+      "joinFocus": "of",
+      "joinTextureDisplay": "of",
+      "focus": "upper boundary or contact"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "gradational boundary",
+        "sharp boundary",
+        "sharp to gradational boundary"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29426,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 38,
+    "HEADER": "Upper boundary attitude",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Upper boundary attitude"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "quantification": "attitude",
+      "joinFocus": "of",
+      "focus": "upper boundary or contact",
+      "joinQuantification": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29427,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 39,
+    "HEADER": "Upper contact interpretation",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Upper contact interpretation"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Interpretation",
+      "joinFocus": "of",
+      "focus": "upper boundary or contact"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29428,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 40,
+    "HEADER": "Lower contact type",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lower contact type"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Type",
+      "joinFocus": "of",
+      "focus": "lower boundary or contact"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29429,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 41,
+    "HEADER": "Lower contact shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lower contact shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "joinFocus": "of",
+      "joinTextureDisplay": "of",
+      "focus": "lower boundary or contact"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29430,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 42,
+    "HEADER": "Lower contact definition",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lower contact definition"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "definition",
+      "joinFocus": "of",
+      "joinTextureDisplay": "of",
+      "focus": "lower boundary or contact"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29431,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 43,
+    "HEADER": "Lower contact attitude",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lower contact attitude"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "quantification": "attitude",
+      "joinFocus": "of",
+      "focus": "lower boundary or contact",
+      "joinQuantification": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "horizontal",
+        "sub-horizontal",
+        "inclined",
+        "steeply dipping",
+        "sub-vertical",
+        "vertical"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29432,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 44,
+    "HEADER": "Lower contact attitude rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Lower contact attitude rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29433,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 45,
+    "HEADER": "Lower contact interpretation",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Lower contact interpretation"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Interpretation",
+      "joinFocus": "of",
+      "focus": "lower boundary or contact"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29434,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 46,
+    "HEADER": "Rock structure comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Rock structure comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "joinFocus": "on",
+      "focus": "structure"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29435,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 47,
+    "HEADER": "General interval comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "General interval comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "joinFocus": "on",
+      "focus": "interval"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29436,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 48,
+    "HEADER": "Olivine (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Olivine (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "olivine",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29437,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 49,
+    "HEADER": "Ol size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ol size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "olivine",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29438,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 50,
+    "HEADER": "Ol size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ol size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "olivine",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29439,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 51,
+    "HEADER": "Ol size MIN (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ol size MIN (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "minimum",
+      "composition": "olivine",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29440,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 52,
+    "HEADER": "Ol shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ol shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "olivine",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29441,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 53,
+    "HEADER": "Ol shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Ol shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29442,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 54,
+    "HEADER": "Ol habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ol habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "olivine",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "equant",
+        "subequant",
+        "tabular",
+        "elongate",
+        "interstitial",
+        "ophitic",
+        "syntaxial vein",
+        "poikilitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29443,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 55,
+    "HEADER": "Ol comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ol comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "composition": "olivine",
+      "joinComposition": "on"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29444,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 56,
+    "HEADER": "Plagioclase (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Plagioclase (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "plagioclase",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29445,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 57,
+    "HEADER": "Pl size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Pl size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "plagioclase",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29446,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 58,
+    "HEADER": "Pl size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Pl size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "plagioclase",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29447,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 59,
+    "HEADER": "Pl size MIN (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Pl size MIN (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "minimum",
+      "composition": "plagioclase",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29448,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 60,
+    "HEADER": "Pl shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Pl shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "plagioclase",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29449,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 61,
+    "HEADER": "Pl shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Pl shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29450,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 62,
+    "HEADER": "Pl habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Pl habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "plagioclase",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "equant",
+        "subequant",
+        "tabular",
+        "elongate",
+        "interstitial",
+        "ophitic",
+        "syntaxial vein",
+        "poikilitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29451,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 63,
+    "HEADER": "Pl comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Pl comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "composition": "plagioclase",
+      "joinComposition": "on"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29452,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 64,
+    "HEADER": "Clinopyroxene (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Clinopyroxene (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "clinopyroxene"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29453,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 65,
+    "HEADER": "Cpx size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Cpx size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "clinopyroxene",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29454,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 66,
+    "HEADER": "Cpx size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Cpx size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "clinopyroxene",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29455,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 67,
+    "HEADER": "Cpx size MIN (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Cpx size MIN (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "minimum",
+      "composition": "clinopyroxene",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29456,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 68,
+    "HEADER": "Cpx shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Cpx shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "clinopyroxene",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29457,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 69,
+    "HEADER": "Cpx shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Cpx shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29458,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 70,
+    "HEADER": "Cpx habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Cpx habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "clinopyroxene",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "equant",
+        "subequant",
+        "tabular",
+        "elongate",
+        "interstitial",
+        "ophitic",
+        "syntaxial vein",
+        "poikilitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29459,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 71,
+    "HEADER": "Cpx comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Cpx comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "composition": "clinopyroxene",
+      "joinComposition": "on"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29460,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 72,
+    "HEADER": "Orthopyroxene (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Orthopyroxene (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "orthopyroxene"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29461,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 73,
+    "HEADER": "Opx size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Opx size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "orthopyroxene",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29462,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 74,
+    "HEADER": "Opx size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Opx size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "orthopyroxene",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29463,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 75,
+    "HEADER": "Opx size MIN (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Opx size MIN (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "composition": "orthopyroxene",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29464,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 76,
+    "HEADER": "Opx shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Opx shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "orthopyroxene",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29465,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 77,
+    "HEADER": "Opx shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Opx shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29466,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 78,
+    "HEADER": "Opx habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Opx habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "orthopyroxene",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "equant",
+        "subequant",
+        "tabular",
+        "elongate",
+        "interstitial",
+        "ophitic",
+        "syntaxial vein",
+        "poikilitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29467,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 79,
+    "HEADER": "Opx comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Opx comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "composition": "orthopyroxene",
+      "joinComposition": "on"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29468,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 80,
+    "HEADER": "Amphibole (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Amphibole (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "amphibole"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29469,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 81,
+    "HEADER": "Amp size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Amp size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "amphibole",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29470,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 82,
+    "HEADER": "Amp size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Amp size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "amphibole",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29471,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 83,
+    "HEADER": "Amp size MIN (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Amp size MIN (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "minimum",
+      "composition": "amphibole",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29472,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 84,
+    "HEADER": "Amp shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Amp shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "amphibole",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29473,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 85,
+    "HEADER": "Amp shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Amp shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29474,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 86,
+    "HEADER": "Amp habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Amp habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "amphibole",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "equant",
+        "subequant",
+        "tabular",
+        "elongate",
+        "interstitial",
+        "ophitic",
+        "syntaxial vein",
+        "poikilitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29475,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 87,
+    "HEADER": "Amp comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Amp comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "composition": "amphibole",
+      "joinComposition": "on"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29476,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 88,
+    "HEADER": "Spinel (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Spinel (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "spinel",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29477,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 89,
+    "HEADER": "Spl size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Spl size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "spinel",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29478,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 90,
+    "HEADER": "Spl size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Spl size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "spinel",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29479,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 91,
+    "HEADER": "Spl size MIN (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Spl size MIN (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "minimum",
+      "composition": "spinel",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29480,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 92,
+    "HEADER": "Spl shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Spl shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "spinel",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29481,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 93,
+    "HEADER": "Spl shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Spl shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29482,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 94,
+    "HEADER": "Spl habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Spl habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "spinel",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "equant",
+        "subequant",
+        "tabular",
+        "elongate",
+        "interstitial",
+        "ophitic",
+        "syntaxial vein",
+        "poikilitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29483,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 95,
+    "HEADER": "Spl comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Spl comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "composition": "spinel",
+      "joinComposition": "on"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29484,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 96,
+    "HEADER": "Oxide (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Oxide (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "oxide",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29485,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 97,
+    "HEADER": "Ox size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ox size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "oxide",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29486,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 98,
+    "HEADER": "Ox size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ox size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "oxide",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29487,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 99,
+    "HEADER": "Ox size MIN (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ox size MIN (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "minimum",
+      "composition": "oxide",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29488,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 100,
+    "HEADER": "Ox shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ox shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "oxide",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29489,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 101,
+    "HEADER": "Ox shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Ox shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29490,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 102,
+    "HEADER": "Ox habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ox habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "oxide",
+      "joinTextureDisplay": "of",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "equant",
+        "subequant",
+        "tabular",
+        "elongate",
+        "interstitial",
+        "ophitic",
+        "syntaxial vein",
+        "poikilitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29491,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 103,
+    "HEADER": "Oxide comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Oxide comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAC8",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "composition": "oxide",
+      "joinComposition": "on"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29492,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 104,
+    "HEADER": "Sulfides (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Sulfides (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "sulfides"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29493,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 105,
+    "HEADER": "Crystallinity",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Crystallinity"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "crystallinity",
+      "joinTextureDisplay": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "holohyaline",
+        "hypohyaline",
+        "hypocrystalline",
+        "holocrystalline",
+        "holocrystalline aphanitic",
+        "holocrystalline phaneritic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29494,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 106,
+    "HEADER": "Crystallinity rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Crystallinity rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29495,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 107,
+    "HEADER": "Groundmass modal (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Groundmass modal (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "joinFocus": "of",
+      "focus": "groundmass"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29496,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 108,
+    "HEADER": "Groundmass grain size",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Groundmass grain size"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "grain size",
+      "joinFocus": "of",
+      "joinTextureDisplay": "of",
+      "focus": "groundmass"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "cryptocrystalline",
+        "cryptocrystalline to microcrystalline",
+        "microcrystalline",
+        "fine-grained"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29497,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 109,
+    "HEADER": "Groundmass grain size rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Groundmass grain size rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29498,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 110,
+    "HEADER": "Groundmass grain size distr.",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Groundmass grain size distr."
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "grain size distribution",
+      "joinFocus": "of",
+      "joinTextureDisplay": "of",
+      "focus": "groundmass"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "placeholder 1",
+        "placeholder 2",
+        "placeholder 3",
+        "placeholder 4"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29499,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 111,
+    "HEADER": "Groundmass comments",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Groundmass comments"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "joinFocus": "on",
+      "focus": "groundmass"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29500,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 112,
+    "HEADER": "Total glass (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Total glass (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Total (%)",
+      "quantification": "abundance",
+      "joinFocus": "of",
+      "focus": "glass",
+      "joinQuantification": "for"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "SUM({{Fresh glass (%)}}, {{Altered glass (%)}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29501,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 113,
+    "HEADER": "Fresh glass (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Fresh glass (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "100",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "joinSourceState": "of",
+      "entryType": "Percent (%)",
+      "quantification": "abundance",
+      "focus": "glass",
+      "sourceState": "fresh"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29502,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 114,
+    "HEADER": "Altered glass (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Altered glass (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "joinSourceState": "of",
+      "entryType": "Percent (%)",
+      "quantification": "abundance",
+      "focus": "glass",
+      "sourceState": "altered"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29503,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 115,
+    "HEADER": "Glass comment",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Glass comment"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "joinFocus": "on",
+      "focus": "glass"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29504,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 116,
+    "HEADER": "Total phenocryst (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Total phenocryst (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "120",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Formula result",
+      "quantification": "abundance",
+      "joinFocus": "of",
+      "focus": "phenocrysts",
+      "joinQuantification": "for"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "formula",
+      "validation": "SUM({{Ol phenocryst (%)}}, {{Pl phenocryst (%)}}, {{Cpx phenocryst (%)}}, {{Opx phenocryst (%)}}, {{Amp phenocryst (%)}}, {{Spl phenocryst (%)}}, {{Ox phenocryst (%)}})",
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29505,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 117,
+    "HEADER": "Phenocryst comments",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Phenocryst comments"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "100",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Comments",
+      "joinFocus": "on",
+      "focus": "phenocrysts"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "text",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29506,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 118,
+    "HEADER": "Vesicularity",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Vesicularity"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "vesicularity",
+      "joinTextureDisplay": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "nonvesicular",
+        "sparsely vesicular",
+        "moderately vesicular",
+        "highly vesicular"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29507,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 119,
+    "HEADER": "Vesicularity rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Vesicularity rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29508,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 120,
+    "HEADER": "Ol phenocryst (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ol phenocryst (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "olivine",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29509,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 121,
+    "HEADER": "Ol phenocryst size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ol phenocryst size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "olivine",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29510,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 122,
+    "HEADER": "Ol phenocryst size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ol phenocryst size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "olivine",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29511,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 123,
+    "HEADER": "Ol phenocryst shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ol phenocryst shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "olivine",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29512,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 124,
+    "HEADER": "Ol phenocryst shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Ol phenocryst shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation":[],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29513,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 125,
+    "HEADER": "Ol phenocryst habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ol phenocryst habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "olivine",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "equant",
+        "subequant",
+        "tabular",
+        "elongate",
+        "interstitial",
+        "ophitic",
+        "syntaxial vein",
+        "poikilitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29514,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 126,
+    "HEADER": "Pl phenocryst (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Pl phenocryst (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "composition": "plagioclase",
+      "focus": "phenocrysts"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29515,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 127,
+    "HEADER": "Pl phenocryst size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Pl phenocryst size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "plagioclase",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29516,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 128,
+    "HEADER": "Pl phenocryst size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Pl phenocryst size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "plagioclase",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29517,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 129,
+    "HEADER": "Pl phenocryst shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Pl phenocryst shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "plagioclase",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29518,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 130,
+    "HEADER": "Pl phenocryst shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Pl phenocryst shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29519,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 131,
+    "HEADER": "Pl phenocryst habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Pl phenocryst habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "plagioclase",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "equant",
+        "subequant",
+        "tabular",
+        "elongate",
+        "interstitial",
+        "ophitic",
+        "syntaxial vein",
+        "poikilitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29520,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 132,
+    "HEADER": "Cpx phenocryst (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Cpx phenocryst (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "clinopyroxene",
+      "focus": "phenocrysts"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29521,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 133,
+    "HEADER": "Cpx phenocryst size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Cpx phenocryst size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "clinopyroxene",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29522,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 134,
+    "HEADER": "Cpx phenocryst size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Cpx phenocryst size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "clinopyroxene",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29523,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 135,
+    "HEADER": "Cpx phenocryst shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Cpx phenocryst shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "clinopyroxene",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29524,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 136,
+    "HEADER": "Cpx phenocryst shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Cpx phenocryst shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29525,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 137,
+    "HEADER": "Cpx phenocryst habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Cpx phenocryst habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "clinopyroxene",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "equant",
+        "subequant",
+        "tabular",
+        "elongate",
+        "interstitial",
+        "ophitic",
+        "syntaxial vein",
+        "poikilitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29526,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 138,
+    "HEADER": "Opx phenocryst (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Opx phenocryst (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "orthopyroxene",
+      "focus": "phenocrysts"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29527,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 139,
+    "HEADER": "Opx phenocryst size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Opx phenocryst size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "orthopyroxene",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29528,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 140,
+    "HEADER": "Opx phenocryst size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Opx phenocryst size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "orthopyroxene",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29529,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 141,
+    "HEADER": "Opx phenocryst shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Opx phenocryst shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "orthopyroxene",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29530,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 142,
+    "HEADER": "Opx phenocryst shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Opx phenocryst shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29531,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 143,
+    "HEADER": "Opx phenocryst habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Opx phenocryst habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "orthopyroxene",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "equant",
+        "subequant",
+        "tabular",
+        "elongate",
+        "interstitial",
+        "ophitic",
+        "syntaxial vein",
+        "poikilitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29532,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 144,
+    "HEADER": "Amp phenocryst (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Amp phenocryst (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "amphibole",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29533,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 145,
+    "HEADER": "Amp phenocryst size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Amp phenocryst size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "amphibole",
+      "focus": "phenocrysts"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29534,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 146,
+    "HEADER": "Amp phenocryst size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Amp phenocryst size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "amphibole",
+      "focus": "phenocrysts"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29535,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 147,
+    "HEADER": "Amp phenocryst shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Amp phenocryst shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "amphibole",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29536,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 148,
+    "HEADER": "Amp phenocryst shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Amp phenocryst shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29537,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 149,
+    "HEADER": "Amp phenocryst habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Amp phenocryst habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "amphibole",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "equant",
+        "subequant",
+        "tabular",
+        "elongate",
+        "interstitial",
+        "ophitic",
+        "syntaxial vein",
+        "poikilitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29538,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 150,
+    "HEADER": "Spl phenocryst (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Spl phenocryst (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "spinel",
+      "focus": "phenocrysts"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29539,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 151,
+    "HEADER": "Spl phenocryst size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Spl phenocryst size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "spinel",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        100,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29540,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 152,
+    "HEADER": "Spl phenocryst size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Spl phenocryst size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "spinel",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        9999,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29541,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 153,
+    "HEADER": "Spl phenocryst shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Spl phenocryst shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "spinel",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29542,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 154,
+    "HEADER": "Spl phenocryst shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Spl phenocryst shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29543,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 155,
+    "HEADER": "Spl phenocryst habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Spl phenocryst habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#ffffff",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "spinel",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts",
+      "joinComposition": "of"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "equant",
+        "subequant",
+        "tabular",
+        "elongate",
+        "interstitial",
+        "ophitic",
+        "syntaxial vein",
+        "poikilitic"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29544,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 156,
+    "HEADER": "Ox phenocryst (%)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ox phenocryst (%)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Percent (%)",
+      "quantification": "volume",
+      "composition": "oxide",
+      "focus": "phenocrysts"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        9999,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29545,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 157,
+    "HEADER": "Ox phenocryst size AVE (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ox phenocryst size AVE (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "average",
+      "composition": "oxide",
+      "focus": "phenocrysts"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        9999,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29546,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 158,
+    "HEADER": "Ox phenocryst size MAX (mm)",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ox phenocryst size MAX (mm)"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "40",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Dimension (mm)",
+      "quantification": "maximum",
+      "composition": "oxide",
+      "focus": "phenocrysts"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "numeric",
+      "validation": [
+        0,
+        9999,
+        0
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29547,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 159,
+    "HEADER": "Ox phenocryst shape",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ox phenocryst shape"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "shape",
+      "composition": "oxide",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [
+        "anhedral",
+        "euhedral",
+        "subhedral"
+      ],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29548,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 160,
+    "HEADER": "Ox phenocryst shape rank",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "vertical",
+      "wordWrap": "T",
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "title": "Ox phenocryst shape rank"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#f5f5f5",
+      "wordWrap": "F",
+      "columnVisibility": "T",
+      "columnWidth": 40,
+      "horizontalJustification": "center",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": "",
+    "COMMENTS": "",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "rank",
+      "validation": [],
+      "contiguity": "F"
+    }
+  },
+  {
+    "COLKEY": 29549,
+    "TPKEY": 2113,
+    "TYPE": "general",
+    "SORTORDER": 161,
+    "HEADER": "Ox phenocryst habit",
+    "JSONHEADER": {
+      "resetHeaderToAbreviateGenus": "F",
+      "orientation": "horizontal",
+      "wordWrap": "T",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "title": "Ox phenocryst habit"
+    },
+    "JSONDISPLAY": {
+      "backgroundColor": "#C8FAFA",
+      "wordWrap": "T",
+      "columnVisibility": "T",
+      "columnWidth": "80",
+      "horizontalJustification": "left",
+      "verticalJustification": "middle",
+      "lockVisibility": "F"
+    },
+    "JONTMLOCKS": "",
+    "JSONCAPLOCKS": "",
+    "IGNORE_FLAG": "",
+    "INVALIDAD_FLAG": "",
+    "JSONKEYWORD": {
+      "entryType": "Name",
+      "textureDisplay": "habit",
+      "composition": "oxide",
+      "joinTextureDisplay": "of",
+      "focus": "phenocrysts"
+    },
+    "COMMENTS": "Initial load by script.",
+    "JSONENTRY": {
+      "entry": "F",
+      "exclusivity": "F",
+      "validationType": "list",
+      "validation": [],
+      "contiguity": "F"
+    }
+  }
+]
