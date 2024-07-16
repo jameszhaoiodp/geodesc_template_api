@@ -341,11 +341,11 @@
       "exclusivity": "F",
       "validationType": "offset",
       "locked": "S",
-      "validation": {
-        "decimals": 1,
-        "maximum": 170,
-        "minimum": 0
-      },
+      "validation": [
+        1,
+         170,
+        0
+      ],
       "contiguity": "F"
     }
   },
@@ -1121,11 +1121,11 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "numeric",
-      "validation": {
-        "decimals": 0,
-        "maximum": 100,
-        "minimum": 0
-      },
+      "validation": [
+        0,
+        100,
+         0
+      ],
       "contiguity": "F"
     }
   },
@@ -3078,11 +3078,11 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "numeric",
-      "validation": {
-        "decimals": 0,
-        "maximum": 100,
-        "minimum": 0
-      },
+      "validation": [
+        0,
+       100,
+        0
+      ],
       "contiguity": "F"
     }
   },
@@ -3123,11 +3123,11 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "numeric",
-      "validation": {
-        "decimals": 0,
-        "maximum": 100,
-        "minimum": 0
-      },
+      "validation": [
+       0,
+         100,
+        0
+      ],
       "contiguity": "F"
     }
   },
@@ -3532,11 +3532,11 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "numeric",
-      "validation": {
-        "decimals": 0,
-        "maximum": 100,
-        "minimum": 0
-      },
+      "validation": [
+        0,
+       100,
+         0
+      ],
       "contiguity": "F"
     }
   },
@@ -3934,11 +3934,11 @@
       "entry": "F",
       "exclusivity": "F",
       "validationType": "numeric",
-      "validation": {
-        "decimals": 0,
-        "maximum": 100,
-        "minimum": 0
-      },
+      "validation": [
+         0,
+         100,
+         0
+      ],
       "contiguity": "F"
     }
   },
